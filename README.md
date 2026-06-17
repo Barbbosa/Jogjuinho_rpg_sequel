@@ -31,7 +31,11 @@ O mundo é composto por diferentes espécies de mascotes, como Dragões, Fadas, 
  <li>Comandos DDL e DML </li>
  </ul>
 
+<h2>Como jogar</h2>
 
+Comece personalizando seu personagem. Utilize o comando SHOW TABLES para visualizar as tabelas disponíveis e, em seguida, execute consultas SELECT para explorar os dados já cadastrados. Escolha seu mascote, skin e arma entre as opções disponíveis e monte um personagem único para iniciar sua aventura no mundo de fantasia.
+
+Caso queira conhecer a estrutura das tabelas, utilize o comando DESCRIBE nome_da_tabela para visualizar os nomes das colunas, seus tipos de dados e outras informações importantes sobre cada atributo.
 
 
 
