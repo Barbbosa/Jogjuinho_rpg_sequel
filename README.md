@@ -14,6 +14,7 @@ O mundo é composto por diferentes espécies de mascotes, como Dragões, Fadas, 
   <li>Cadastro de mascotes e espécies</li>
   <li>Cadastro de skins, estilos e temas</li>
   <li>Cadastro de mundos, caracteristicas e temas</li>
+  <li>Cadastro de armas</li>
   <li>Relacionamentos entre entidades</li>
   <li>Consultas utilizando JOINs</li>
   <li>Gerenciamento de dados com comandos SQL</li>
